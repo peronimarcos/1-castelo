@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang=" " pt/br">
 <head>
-
 <meta charset="UTF/8">
 # 1-castelo
   <p> Muitos profissionais buscam aperfeiçoar o consumo do combustível dos tratores por meio de um aditivo para óleo diesel.
 É importante sempre assegurar que seja um produto de qualidade, pois nesse caso, além de aprimorar o uso do combustível, será possível prevenir a degradação térmica e amenizar as emissões de gases poluentes.<p/>
-
+<title> tratores </title>
+<link rel= "stylesheet" href="styless">
+</haed>
+<body>
+<h1 id="titulo"tratores><>
 <p>Além disso, um produto inadequado pode ser nocivo não apenas para a máquina, como também para o meio ambiente.
 Líderes de mercado no seu segmento, os tratores 7630 e 8030 são incomparáveis em performance e durabilidade, o que os torna unanimidade em campo. Nenhum trator consegue superar a produtividade, a versatilidade e o baixo custo operacional dos 7630 e 8030.Produzido em 1977, o modelo Big Bud 747 mede 8 metros de comprimento e 6 de largura, tem 1.000 cv de potência e custava cerca de US$ 300 mil. Só para se ter ideia, um carro de luxo não ultrapassava os US$ 20 mil na mesma época.<p/>
 
