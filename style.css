@@ -1,8 +1,16 @@
-body {background-color:black;}
+body {
+    background-color:black;}
 #titulo {
     font-size: 80px;
     text-align: center;
     color: dodgerblue;
 
- }
-.texto <
+  }
+
+
+header {
+    padding: 20px;
+    background-color: blue;
+    border
+}
+
